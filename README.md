@@ -1,2 +1,2 @@
 # Movies Review Database
-# From 'Developing Cloud Native Applications' Coursera Course
+# From 'Developing Cloud Native Applications' IBMXCoursera Course
